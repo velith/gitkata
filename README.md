@@ -4,14 +4,13 @@ A repository for git katas. Each branch contains a specific problem that can be 
 
 Each kata contains three files: Two scripts, one for starting, one cleaning and a readme file explaining the problem.
 
-Practive a kata
+Practise a kata
 ===============
 To get started follow these two simple steps.
 ```
 git checkout kata_name_of_kata
 ./startKata
 ```
-
 
 Contribute
 ==========
